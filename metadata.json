@@ -1,0 +1,5 @@
+{
+  "name": "Prisma AI Studio",
+  "description": "A world-class AI image studio powered by Gemini. Generate stunning visuals from text or analyze existing images with advanced multimodal capabilities.",
+  "requestFramePermissions": []
+}
